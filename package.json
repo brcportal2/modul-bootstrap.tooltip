@@ -1,0 +1,9 @@
+{
+	"name" : "modul-bootstrap.tooltip",
+	"license": "MIT",
+	
+	"dependencies" : [],
+	"repository" : {"type": "git", "url": "git://github.com/brcportal2/modul-bootstrap.tooltip.git"},
+	"main" : "index.js",
+	"version" : "0.0.1"
+}
